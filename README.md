@@ -9,7 +9,7 @@ This project is completely based on ES6, Node.js/Express.js and MongoDB/Mongoose
 
 ## Setup Guide
 - Clone the project  
-- As this project is based on Node.js you have to download Node.js and Npm as prerequisites  
+- As this project is based on Node.js and mongoDB you have to download Node.js, Npm and MongoDB as prerequisites  
 - Go the project through the terminal and install all dependencies by   
   - npm init
   - npm install -g nodemon
