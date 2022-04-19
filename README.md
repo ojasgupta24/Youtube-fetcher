@@ -13,7 +13,7 @@ This project is completely based on ES6, Node.js/Express.js and MongoDB/Mongoose
 - Go the project through the terminal and install all dependencies by   
   - npm install
   - npm install -g nodemon  
- - Inside the app.js file, fill the url with <your api key>
+ - Inside the app.js file, fill the url with your api key
  - For getting an API key follow (https://developers.google.com/youtube/v3/getting-started / https://console.cloud.google.com/apis/dashboard)
  - run the server using nodemon app.js
 
