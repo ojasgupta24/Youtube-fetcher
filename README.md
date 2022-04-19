@@ -15,7 +15,7 @@ This project is completely based on ES6, Node.js/Express.js and MongoDB/Mongoose
   - npm install -g nodemon
   - npm i express mongoose axios body-parser
  - Inside the app.js file, fill the url with <your api key>
- - For getting an API key follow (https://developers.google.com/youtube/v3/getting-started)
+ - For getting an API key follow (https://developers.google.com/youtube/v3/getting-started / https://console.cloud.google.com/apis/dashboard)
  - run the server using nodemon app.js
 
 ## Parameters on Postman
