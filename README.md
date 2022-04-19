@@ -19,8 +19,8 @@ This project is completely based on ES6, Node.js/Express.js and MongoDB/Mongoose
  - run the server using nodemon app.js
 
 ## Parameters on Postman
-  -select post method on Postman 
-  -write localhost:3000 in the url section
+  - Select post method on Postman 
+  - Write localhost:3000 in the url section
   - In the key column enter three keys namely title, description and page and their corresponding values  
 ## Screenshots
   ![screenshot Postman](https://user-images.githubusercontent.com/62804076/163976618-fd3d5d46-fbd1-4bfc-89ec-0e15b964e801.png)
